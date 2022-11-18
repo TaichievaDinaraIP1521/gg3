@@ -1,0 +1,30 @@
+cd desktop
+md 33
+whoami
+cd 33
+echo Hello ; echo world
+echo Hello && echo world
+echo Hello || echo world
+echa Hello ; echo world
+echa Hello || echo world
+yes (Ctrl+Z)
+fg (Ctrl+C;Ctrl+D)
+ls -la /dev | less
+wc /dev
+touch file1 file2 file3 | mkdir 1directory 2directory 3directory
+ls C:\Users\hckl\desktop\33> list1.txt
+ls C:\Users\hckl\desktop\33 > list2.txt
+diff list1 list2
+ln C:\Users\hckl\desktop\list1.txt list3
+ln -s C:\Users\hckl\desktop\list1.txt list4
+rm list1
+cat list3 list4
+time
+
+
+
+
+
+
+
+
